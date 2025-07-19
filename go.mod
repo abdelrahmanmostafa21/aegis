@@ -1,4 +1,4 @@
-module github.com/go-kratos/aegis
+module github.com/abdelrahmanmostafa21/aegis
 
 go 1.18
 

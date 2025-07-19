@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-kratos/aegis/internal/window"
-	"github.com/go-kratos/aegis/ratelimit"
+	"github.com/abdelrahmanmostafa21/aegis/internal/window"
+	"github.com/abdelrahmanmostafa21/aegis/ratelimit"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/exp/rand"
 )
